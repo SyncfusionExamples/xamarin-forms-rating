@@ -6,21 +6,21 @@ For know more details about Rating: https://www.syncfusion.com/xamarin-ui-contro
 
 Rating user guide documentation: https://help.syncfusion.com/xamarin/rating/getting-started
 
-# Assembly deployment
+## Assembly deployment
 After installing Essential Studio for Xamarin, you can find all the required assemblies in the installation folders, {Syncfusion Essential Studio Installed location} \Essential Studio\{Version #}\Xamarin\lib.
 
-# Adding SfRating reference
+## Adding SfRating reference
 You can add SfRating reference using one of the following methods:
 
-## Method 1: Adding SfRating reference from nuget.org
+### Method 1: Adding SfRating reference from nuget.org
 
 Syncfusion Xamarin components are available in nuget.org. To add SfRating to your project, open the NuGet package manager in Visual Studio, search for Syncfusion.Xamarin.SfRating, and then install it.
 
-## Method 2: Adding SfRating reference from toolbox
+### Method 2: Adding SfRating reference from toolbox
 
 Syncfusion also provides Xamarin Toolbox. Using this toolbox, you can drag the SfRating control to the XAML page. It will automatically install the required NuGet packages and add the namespace to the page. To install Syncfusion Xamarin Toolbox, refer to Toolbox.
 
-## Method 3: Adding SfRating assemblies manually from the installed location
+### Method 3: Adding SfRating assemblies manually from the installed location
 
 If you prefer to manually reference the assemblies instead referencing from NuGet, add the following assemblies in respective projects.
 
